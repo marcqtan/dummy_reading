@@ -2,7 +2,7 @@
    "reading":[
       {
          "page":1,
-         "nextPage":"2",
+         "nextPage":2,
          "data":[
             {
                "docId":"d1",
@@ -54,7 +54,7 @@
       },
       {
          "page":2,
-         "nextPage":"3",
+         "nextPage":3,
          "data":[
             {
                "docId":"1",
